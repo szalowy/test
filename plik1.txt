@@ -1,3 +1,2 @@
 plik1
-zmiana1
-zmiana2
+g test
