@@ -1,5 +1,2 @@
-pilk3
 zmiana1
-zmiana na ga³êzi dev
-zmiana na galêzi dev2
-zmiana plik 3
+usun¹³em 3 linie
