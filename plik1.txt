@@ -4,3 +4,4 @@ testB
 dodaje do master
 dodaje do galezi dev 
 dodaje do master2
+dodaję do dev3
