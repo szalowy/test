@@ -1,3 +1,4 @@
 plik1
 test3
 testB
+dodaje do master
