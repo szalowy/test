@@ -4,4 +4,4 @@ testB
 dodaje do master
 dodaje do galezi dev 
 dodaje 2 do dev
-
+dodaje do dev 4
